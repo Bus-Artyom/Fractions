@@ -1,6 +1,3 @@
-from datetime import datetime
-
-
 class Fraction:
     def __init__(self, numerator=0, denominator=1):
         self.numerator = numerator
